@@ -1,0 +1,11 @@
+C:\Users\Fernando\source\repos\logger\logger\bin\Debug\logger.exe.config
+C:\Users\Fernando\source\repos\logger\logger\bin\Debug\logger.exe
+C:\Users\Fernando\source\repos\logger\logger\bin\Debug\logger.pdb
+C:\Users\Fernando\source\repos\logger\logger\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Fernando\source\repos\logger\logger\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.csproj.CopyComplete
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.exe
+C:\Users\Fernando\source\repos\logger\logger\obj\Debug\logger.pdb
